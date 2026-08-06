@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🖥️ I have been coding in Go for the past year
 - 💬 I'm working on a [chat room web app](http://go-chat.duckdns.org/) to learn Go and JS
-- 📖 I'm learning SQL at the moment
+- 📖 I'm learning JS at the moment
 - 📡 Taking an online course on HTTP clients in TypeScript
