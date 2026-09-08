@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥️ I have been coding in Go for the past year
-- 💬 I'm working on a [chat room web app](http://go-chat.duckdns.org/) to learn Go and JS
+- 💬 I'm working on an [online drawing game](http://[go-chat.duckdns.org/](https://github.com/BetoDev25/doodle-game)) to get experience in Go and JS.
 - 📖 I'm learning JS at the moment
 - 📡 Taking an online course on HTTP clients in TypeScript
